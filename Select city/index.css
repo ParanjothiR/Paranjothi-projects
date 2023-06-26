@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(58, 44, 187);
+    margin-left:450px;
+    margin-top:200px;
+    margin-right: 450px;
+}
+#container{
+           border: 5px solid black;
+           background-color: rgb(253, 243, 233);
+           padding-left: 30px;
+           padding-bottom: 100px;
+}
+#sub{
+    margin-left: 70px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px;
+}
+#head{
+    text-align: center;
+}
+button{
+     font-size: 25px;
+     margin-left:200px;
+     background-color: rgb(76, 0, 255);
+}
+#input{
+    font-size: 30px;
+    margin-left: 200px;
+}
+#result{
+    font-size: 30px;
+}
+
