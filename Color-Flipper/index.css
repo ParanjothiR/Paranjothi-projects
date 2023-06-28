@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(209, 20, 20);
+    margin:0px;
+    padding:0px;
+}
+#container{
+  background-color:white;
+  height: 100%;
+  width: 100%;
+  position:absolute;
+}
+#sub1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 0cqmax;
+    color: red;
+    text-align: center;
+}
+#sub2{
+      text-align: center;
+      font-size: 90px;
+      margin-top: 180px;
+  
+}
+#sub3{
+  text-align:center;
+  margin-left: 30px;
+}
